@@ -1,0 +1,21 @@
+# Ce programme est régi par la licence CeCILL soumise au droit français et
+# respectant les principes de diffusion des logiciels libres. Vous pouvez
+# utiliser, modifier et/ou redistribuer ce programme sous les conditions
+# de la licence CeCILL diffusée sur le site "http://www.cecill.info".
+
+en:
+  nextink:
+    already_subscribed: "This channel is already subscribed to #LeBrief by Next.ink"
+    not_subscribed: "This channel is not subscribed to #LeBrief by Next.ink"
+    subscribed: "Successfully subscribed this channel to #LeBrief by Next.ink"
+    unsubscribed: "Successfully unsubscribed this channel from #LeBrief by Next.ink"
+    list:
+      title: "Subscribed channels"
+      empty: "No channel is subscribed to #LeBrief by Next.ink on this server"
+    webhook:
+      reason: "Send daily #LeBrief message"
+    notifications:
+      all: "**Messages** : non-silent"
+      first: "**Messages** : first is silent"
+      none: "**Messages** : silent"
+
